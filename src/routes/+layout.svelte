@@ -8,7 +8,7 @@
   </script>
 
 <nav class="navbar navbar-dark bg-dark px-3">
-    <span class="navbar-brand">Anonymous Vote</span>
+    <span class="navbar-brand">Tugas semester 6</span>
 </nav>
 
 <main class="container mt-4">
